@@ -35,6 +35,8 @@ For this workshop, we will be creating a basic web page layout.
 
 The workshop will be run as a live coding follow along session. We will go through the task slowly together so that we can investigate the key skills that we are covering.
 
+You should work within the `exercise` directory. An extra copy of the code is included within the `live-demo` directory; the `live-demo` directory will be updated to include the code that is completed by the instructor during the session.
+
 The live demo component is designed to allow various concepts and skills to be developed in a practical context; this is ideal for demonstrating the process of using a range of tools and techniques for developing & testing the page.
 
 There will be help available during the session, so please make sure to ask for help.
