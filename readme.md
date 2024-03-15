@@ -10,6 +10,7 @@ This workshop is designed for beginners, but we will be covering a lot of conten
 
 - Slides: [https://docs.google.com/presentation/d/17-i5pLCENpcKqJ-xOqaWo85nO7yaHfl9BoYYQ71MDX8/edit?usp=sharing](https://docs.google.com/presentation/d/17-i5pLCENpcKqJ-xOqaWo85nO7yaHfl9BoYYQ71MDX8/edit?usp=sharing)
 - Zoom link for screenshare: [https://auckland.zoom.us/j/92794018821?pwd=UXgrR2RTMlJIaUppQXd6dnMvM3lUdz09](https://auckland.zoom.us/j/92794018821?pwd=UXgrR2RTMlJIaUppQXd6dnMvM3lUdz09)
+- The IDE that will be used for the live demos: [https://code.visualstudio.com/](https://code.visualstudio.com/) 
 
 ### Useful links:
 
@@ -38,6 +39,6 @@ The live demo component is designed to allow various concepts and skills to be d
 
 There will be help available during the session, so please make sure to ask for help.
 
-When completed, the page should look something like this: 
+When completed, the page should look something like this:
 
 ![img](./spec/finished.PNG)
