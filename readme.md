@@ -10,7 +10,12 @@ This workshop is designed for beginners, but we will be covering a lot of conten
 
 - Slides: [https://docs.google.com/presentation/d/17-i5pLCENpcKqJ-xOqaWo85nO7yaHfl9BoYYQ71MDX8/edit?usp=sharing](https://docs.google.com/presentation/d/17-i5pLCENpcKqJ-xOqaWo85nO7yaHfl9BoYYQ71MDX8/edit?usp=sharing)
 - Zoom link for screenshare: [https://auckland.zoom.us/j/92794018821?pwd=UXgrR2RTMlJIaUppQXd6dnMvM3lUdz09](https://auckland.zoom.us/j/92794018821?pwd=UXgrR2RTMlJIaUppQXd6dnMvM3lUdz09)
-- The IDE that will be used for the live demos: [https://code.visualstudio.com/](https://code.visualstudio.com/) 
+- The IDE that will be used for the live demos: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+### Recordings from live demos on Saturday:
+
+- Recording 1: [https://auckland.zoom.us/rec/share/Ibj3G7xhby04_dUrjmKJfrLRzCGrnTKmO8fuFCtuqrBFB8DGKy6Ss2hoJUMUtZXK.QrHHR-pJsMx_Wbcl](https://auckland.zoom.us/rec/share/Ibj3G7xhby04_dUrjmKJfrLRzCGrnTKmO8fuFCtuqrBFB8DGKy6Ss2hoJUMUtZXK.QrHHR-pJsMx_Wbcl)
+- Recording 2: [https://auckland.zoom.us/rec/share/OHGZ_fXla6R9PK1llqEIBdUb-6oAv-llgnI4MXRX84Euq5-cTnoX4rrepyAR6mbM.TGZQ6nyCQEFUQ3fN](https://auckland.zoom.us/rec/share/OHGZ_fXla6R9PK1llqEIBdUb-6oAv-llgnI4MXRX84Euq5-cTnoX4rrepyAR6mbM.TGZQ6nyCQEFUQ3fN)
 
 ### Useful links:
 

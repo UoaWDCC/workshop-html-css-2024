@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main>
+      <!-- Left sidebar -->
+      <div class="left">
+        <div class="friends-filter">
+          <h2>Friends</h2>
+          <input placeholder="filter friend" />
+        </div>
+
+        <div class="contact-cards">
+          <div class="contact-card transition">
+            <img src="./public/photo1.jpg" alt="avatar-photo1" />
+            <p>Jason</p>
+          </div>
+
+          <div class="contact-card transition selected-card">
+            <img src="./public/photo2.jpg" alt="avatar-photo2" />
+            <p>Emily</p>
+          </div>
+
+          <div class="contact-card transition">
+            <img src="./public/photo3.jpg" alt="avatar-photo3" />
+            <p>Alex</p>
+          </div>
+
+          <div class="contact-card transition">
+            <img src="./public/photo4.jpg" alt="avatar-photo4" />
+            <p>Andrew</p>
+          </div>
+
+          <div class="contact-card transition">
+            <img src="./public/photo5.jpg" alt="avatar-photo5" />
+            <p>Sam</p>
+          </div>
+        </div>
+
+        <div class="add-friend">
+          <img src="./public/user-add.svg" alt="user-add-icon" />
+          <button>Add Friend</button>
+        </div>
+      </div>
+
+      <!-- Right contact info -->
+      <div class="right">
+        <img src="./public/photo2.jpg" alt="avatar-photo2" />
+        <h1>Emily</h1>
+        <p class="phone">022 1234 5678</p>
+        <p class="description">
+          Description text, lorem ipsum doris lrjf uafj k fasf lorem ipsum doris
+          lrjf uafj k fasf lorem ipsum doris lrjf uafj k fasf
+        </p>
+        <button class="edit-button transition">Edit</button>
+        <button class="delete-button transition">Delete</button>
+      </div>
+    </main>
+  </body>
+</html>

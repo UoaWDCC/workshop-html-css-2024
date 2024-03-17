@@ -1,0 +1,187 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+main {
+  max-width: 900px;
+  height: 700px;
+  margin: auto;
+  margin-top: 10vh;
+  box-shadow: 1px 2px 7px 6px rgba(0, 0, 0, 0.09);
+  border-radius: 10px;
+  display: flex;
+}
+
+.left {
+  width: 280px;
+  background-color: #f9f9f9;
+  height: inherit;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.friends-filter {
+  padding: 10px 10px 20px 10px;
+  text-align: center;
+  background-color: #fff;
+}
+
+.friends-filter h2 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.left input {
+  font-family: inherit;
+  background-color: rgba(194, 43, 248, 0.1);
+  border: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+  font-size: 12px;
+  width: 65%;
+}
+
+.left input::placeholder {
+  opacity: 0.75;
+}
+
+.contact-cards {
+  max-height: 510px;
+  overflow: auto;
+}
+
+.contact-card {
+  width: inherit;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  padding-left: 40px;
+  font-weight: 600;
+  color: #2c2c2c;
+  border-bottom: 1.5px rgba(194, 43, 248, 0.05) solid;
+}
+
+.contact-card:hover {
+  opacity: 0.9;
+  background-color: rgba(194, 43, 248, 0.05);
+}
+
+.selected-card {
+  background-color: rgba(194, 43, 248, 0.2);
+}
+
+.contact-card img {
+  width: 60px;
+  border-radius: 50%;
+}
+
+.add-friend {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eefbee;
+  width: inherit;
+  gap: 20px;
+  padding: 13px 0;
+}
+
+.add-friend:hover {
+  opacity: 0.9;
+  background-color: #d2fbd2;
+  transition: ease-in-out 0.25s;
+}
+
+.add-friend img {
+  width: 50px;
+}
+
+.add-friend button {
+  border: none;
+  background-color: inherit;
+  font-family: inherit;
+  font-weight: 600;
+  color: #45d34a;
+}
+
+.add-friend button:hover {
+  cursor: pointer;
+  color: #13e622;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 95px;
+  position: relative;
+}
+
+.right img {
+  border-radius: 50%;
+  width: 170px;
+}
+
+.right .phone {
+  font-weight: 600;
+  color: #2c2c2c;
+}
+
+.right .description {
+  padding: 25px 0;
+}
+
+.edit-button {
+  font-family: inherit;
+  font-weight: 600;
+  padding: 8px 22px;
+  color: white;
+  background-color: rgba(194, 43, 248, 1);
+  border: none;
+  border-radius: 4px;
+}
+
+.delete-button {
+  position: absolute;
+  bottom: 15px;
+  font-family: inherit;
+  border: 1px solid #ff6868;
+  color: #ff6868;
+  background-color: #fff;
+  padding: 6px 15px;
+  border-radius: 4px;
+}
+
+.delete-button:hover {
+  background-color: #ff6868;
+  color: white;
+}
+
+.edit-button:hover {
+  opacity: 0.7;
+}
+
+.transition {
+  cursor: pointer;
+  transition: ease-in-out 0.25s;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  box-shadow: 0 0 1px 1px rgba(194, 43, 248, 0.2);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(194, 43, 248, 0.7);
+  border-radius: 10px;
+}
